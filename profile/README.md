@@ -9,5 +9,7 @@ Our work is mainly focused on marine and environmental study and modelling.
 
 We develop software tools for the spatial interpolation of in situ measurements and satellite images, based on variational methods and more recently on neural network.
 
+We also organise the _International Liège Colloquium on Ocean Dynamics_ (aka _The Colloquium_) since 1968.
+
 ## How to reach us?
 You can find all the information on the official webpage: https://www.gher.uliege.be
