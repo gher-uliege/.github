@@ -1,5 +1,3 @@
-Welcome to GHER GitHub!
-
 ## What's the GHER?
 GHER stands for _GeoHydrodynamics and Environment Research_. It is a research group of the [University of Liège](https://www.uliege.be). 
 It is also part of the Freshwater and OCeanic science Unit of reSearch ([FOCUS](https://www.focus.uliege.be)).
